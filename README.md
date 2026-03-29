@@ -56,4 +56,4 @@ npm start
 ---
 
 ## 👨‍💻 Author
-Akash Chauras
+Akash Chaurasia
